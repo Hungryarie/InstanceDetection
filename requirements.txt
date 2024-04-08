@@ -1,1 +1,8 @@
 ipykernel
+transformers
+datasets
+evaluate 
+timm # pytorch image models
+albumentations
+ipywidgets
+accelerate
